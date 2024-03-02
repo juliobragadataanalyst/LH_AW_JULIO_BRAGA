@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T23:42:53.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8Y0FLV-auVC1bR6t8tPx" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-02T00:21:30.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5ETOC0yy3l09CZ-50o0U" version="23.1.5" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="1035" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="Qn2qlTN2ILUu-nCu6F_l-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="30" width="800" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="2e49270ec7c68f3f-19" value="FTC SALES" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#0c7605;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="2e49270ec7c68f3f-19" value="FTC SALES" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#527605;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="310" y="286" width="180" height="194" as="geometry" />
         </mxCell>
         <mxCell id="2e49270ec7c68f3f-20" value="id_sales_detail" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;html=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=1;fontSize=15;" parent="2e49270ec7c68f3f-19" vertex="1">
